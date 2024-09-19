@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @antonov3017
 - 👀 I’m interested in programming, machine learning, genetic algorithms 
-- 🌱 I’m currently learning Python at GeekBrains
+- 🌱 I have a degree in python developer at GeekBrains
 - 💞️ I’m looking for a job as a programmer
 - 📫 How to reach me Saint Petersburg, Russia
 
